@@ -23,4 +23,4 @@ jobs:
     - run: node app.js
     - run: node multi.js
       env:
-        CI: true
+        CI: true 
